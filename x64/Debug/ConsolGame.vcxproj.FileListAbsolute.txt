@@ -1,0 +1,2 @@
+C:\Users\acer\source\repos\ConsolGame\x64\Debug\ConsolGame.exe
+C:\Users\acer\source\repos\ConsolGame\x64\Debug\ConsolGame.pdb

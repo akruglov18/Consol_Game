@@ -1,0 +1,3 @@
+﻿  ConsolGame.cpp
+C:\Users\acer\source\repos\ConsolGame\ConsolGame.cpp(31,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsolGame.vcxproj -> C:\Users\acer\source\repos\ConsolGame\Debug\ConsolGame.exe

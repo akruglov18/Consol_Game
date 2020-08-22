@@ -1,0 +1,14 @@
+﻿  ConsolGame.cpp
+C:\Users\acer\source\repos\ConsolGame\ConsolGame.cpp(25,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Game_Field.cpp
+  Menu.cpp
+  Menu.h
+  Move.cpp
+  Skeleton.h
+  Tiles.cpp
+  Создание кода...
+C:\Users\acer\source\repos\ConsolGame\Menu.cpp(10): warning C4715: Menu::printMenu: значение возвращается не при всех путях выполнения
+x64\Debug\Menu.obj : warning LNK4042: объект указан более одного раза; лишние не учитываются
+x64\Debug\Skeleton.obj : warning LNK4042: объект указан более одного раза; лишние не учитываются
+Tiles.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __cdecl Skeleton::Skeleton(class Weapon *,int,int,int,int,int,int)" (??0Skeleton@@QEAA@PEAVWeapon@@HHHHHH@Z) в функции "public: void __cdecl Tile::makeCave(int const &)" (?makeCave@Tile@@QEAAXAEBH@Z)
+C:\Users\acer\source\repos\ConsolGame\x64\Debug\ConsolGame.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
